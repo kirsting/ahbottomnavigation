@@ -2,5 +2,9 @@
 <resources>
     <declare-styleable name="AHBottomNavigationBehavior_Params">
         <attr name="tabLayoutId" format="reference" />
+        <attr name="textActiveSize" format="dimension" />
+        <attr name="textInactiveSize" format="dimension" />
+        <attr name="textForcedactiveSize" format="dimension" />
+        <attr name="textFoecedInactiveSize" format="dimension" />
     </declare-styleable>
 </resources>
